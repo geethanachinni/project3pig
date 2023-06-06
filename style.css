@@ -84,7 +84,7 @@
     display: flex;
     justify-content: space-evenly;
     position: absolute;
-    margin-top: -50%;
+    margin-top: -45%;
     z-index: -1;
 }
  .ears1{
